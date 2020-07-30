@@ -1,0 +1,95 @@
+﻿timestamp:UTC,Date and Time: PST,duration (hours),note,Category,Label,Editor Note
+4/9/19 12:40,4/9/19 5:40,0,Apply Patches,Preset,Apply Patches,
+4/9/19 12:52,4/9/19 5:52,0,Son knocked off while giving hug,Preset,Remove Patches,Dropout expected - 1
+4/9/19 13:01,4/9/19 6:01,0.159722,Applied double adhesive with round roc tape.,Preset,Apply Patches,Dropout expected - 1
+4/9/19 13:19,4/9/19 6:19,0,Start walking into the coffee shop,Activity,Walking,
+4/9/19 13:21,4/9/19 6:21,0,Begin driving,Activity,End Walking,
+4/9/19 13:42,4/9/19 6:42,0,End driving and start walking outside,Activity,Walking,
+4/9/19 13:45,4/9/19 6:45,0,Begin walking inside and starting up stairs,Activity,Walking,
+4/9/19 13:47,4/9/19 6:47,0,Standing at desk,Activity,End Walking,
+4/9/19 13:57,4/9/19 6:57,0,Begin walking,Activity,Walking,
+4/9/19 14:01,4/9/19 7:01,0,Sit down for presentation,Activity,Sitting,
+4/9/19 14:53,4/9/19 7:53,0,Begin crossing led leg over right,Activity,End Walking,
+4/9/19 15:01,4/9/19 8:01,0,Begin walking,Activity,Walking,
+4/9/19 15:57,4/9/19 8:57,0,Sitting at desk for telecon,Activity,Sitting,
+4/9/19 16:57,4/9/19 9:57,0,Begin walking to meeting,Activity,Walking,
+4/9/19 18:13,4/9/19 11:13,0,Outside walking to car,Activity,Walking,
+4/9/19 18:39,4/9/19 11:39,0,Exit car and walk into restaurant,Activity,Walking,
+4/9/19 18:56,4/9/19 11:56,0,Begin walking into store,Activity,Walking,
+4/9/19 20:33,4/9/19 13:33,1.240833,Removed neck patch in preparation for working outside in strong sun,Preset,Remove Patches,Dropout Expected - 1
+4/9/19 21:32,4/9/19 14:32,0,Remove biovotion due to falling off from working outside doing landscapeing.,Compliance,Remove Biovotion,Dropout Expected - B
+4/10/19 0:55,4/9/19 17:55,0,Remove sensors to shower,Preset,Remove Patches,Dropout Expected
+4/10/19 3:05,4/9/19 20:05,0.551111,"Applied patches with double tape over arm, chest, and leg sensors.",Preset,Apply Patches,Dropout Expected
+4/10/19 3:11,4/9/19 20:11,0,Begin Cuff,Cuff Modulation,Begin Cuff,
+4/10/19 3:16,4/9/19 20:16,0,Inflate cuff,Cuff Modulation,Inflate Cuff,
+4/10/19 3:17,4/9/19 20:17,0,Actual inflation start - had to close valve,Cuff Modulation,Inflate Cuff,
+4/10/19 3:22,4/9/19 20:22,0,End cuff,Cuff Modulation,End Cuff,
+4/10/19 3:40,4/9/19 20:40,0,Lay down in bed,Sleep,Sleep,
+4/10/19 11:09,4/10/19 4:09,0,Wake up,Sleep,End Sleep,
+4/10/19 11:59,4/10/19 4:59,0,End driving - walking around / standing inside,Activity,Walking,
+4/10/19 18:20,4/10/19 11:20,0,Exit car walking inside house,Activity,Walking,
+4/10/19 21:00,4/10/19 14:00,0,Sitting down on couch,Activity,Sitting,
+4/10/19 21:51,4/10/19 14:51,0,Loading and unloading dishwasher,Activity,End Sitting,
+4/11/19 1:12,4/10/19 18:12,0,Likely sat down in recliner and subsequently fell asleep,Sleep,Sleep,Nap
+4/11/19 5:11,4/10/19 22:11,0,Woke up from sleeping in recliner and walked to bedroom,Sleep,End Sleep,End Nap - check on sleep resume
+4/11/19 5:16,4/10/19 22:16,0,Removed biovotion to charge overnight,Compliance,Remove Biovotion,Dropout Expected - B
+4/11/19 5:19,4/10/19 22:19,0,Laid down in bed,Sleep,Sleep,check not duplicate
+4/11/19 11:40,4/11/19 4:40,0,Wake up and remove patches to shower,Sleep,End Sleep,double check not duplicate
+4/11/19 11:40,4/11/19 4:40,0,Wake up and remove patches to shower,Preset,Remove Patches,Dropout Expected
+4/11/19 17:27,4/11/19 10:27,0,Apply patches,Preset,Apply Patches,
+4/11/19 18:00,4/11/19 11:00,0,Sitting down at 1 hour meeting,Activity,Sitting,
+4/11/19 18:59,4/11/19 11:59,0,Walk to next hour meeting,Activity,End Sitting,
+4/12/19 0:59,4/11/19 17:59,0,Knocked arm patch off wrestling with toddler,Preset,Remove Patches,Dropout Expected - 1
+4/12/19 2:35,4/11/19 19:35,0,Getting ready to put son to bed,Sleep,Sleep,check start of sleep
+4/12/19 4:18,4/11/19 21:18,0,Moving to my bed after falling asleep in sons,Sleep,End Sleep,double check for sleep start
+4/12/19 4:23,4/11/19 21:23,0,Begin cuff,Cuff Modulation,Begin Cuff,
+4/12/19 4:23,4/11/19 21:23,0,Inflate cuff to 250mmHg,Cuff Modulation,Inflate Cuff,check duplicate
+4/12/19 4:29,4/11/19 21:29,0,Inflate cuff to 250mmHg,Cuff Modulation,Inflate Cuff,check duplicate
+4/12/19 4:32,4/11/19 21:32,0,End cuff,Cuff Modulation,End Cuff,
+4/12/19 4:37,4/11/19 21:37,0,,Sleep,Sleep,added by editor
+4/12/19 12:02,4/12/19 5:02,0,Wake up and knock calf patch off,Sleep,End Sleep,
+4/12/19 13:20,4/12/19 6:20,0,Realized neck sensor was switched to idle,Preset,Remove Patches,Dropout Expected - 1
+4/12/19 23:59,4/12/19 16:59,0,Knocked sensor off mulching,Preset,Remove Patches,Dropout Expected - 1
+4/13/19 0:35,4/12/19 17:35,0,Sitting down to bed after putting son to bed,Sleep,Sleep,sleep resume?
+4/13/19 1:10,4/12/19 18:10,0,Remove patches to shower,Preset,Remove Patches,Dropout Expected
+4/13/19 1:41,4/12/19 18:41,0,Apply patches,Preset,Apply Patches,
+4/13/19 23:58,4/13/19 16:58,0,Apply patches - except leg,Preset,Apply Patches,Dropout expected
+4/14/19 2:15,4/13/19 19:15,0,Begin cuff,Cuff Modulation,Begin Cuff,
+4/14/19 2:20,4/13/19 19:20,0,Inflate cuff to 250 mmHg,Cuff Modulation,Inflate Cuff,
+4/14/19 2:22,4/13/19 19:22,0,Deflate cuff,Cuff Modulation,End Cuff,corrected by editor
+4/14/19 2:30,4/13/19 19:30,0,Begin pushups,Activity,Exercise,pushups
+4/14/19 2:30,4/13/19 19:30,0,End pushups,Activity,End Exercise,pushups
+4/14/19 2:36,4/13/19 19:36,0,Lay down.,Activity,Laying,
+4/14/19 3:17,4/13/19 20:17,0,Laid down for bed,Sleep,Sleep,
+4/14/19 12:22,4/14/19 5:22,0,Wake up and get out of bed,Sleep,End Sleep,
+4/14/19 12:25,4/14/19 5:25,0,Remove neck sensor getting ready to leave for soccer game - can't play with it.,Preset,Remove Patches,Dropout Expected - 1
+4/14/19 20:17,4/14/19 13:17,0,Applied only two patches - getting ready to run in direct sun later,Preset,Apply Patches,Dropout Expected - 2
+4/14/19 21:26,4/14/19 14:26,0,Get out of car and head to the track for a run-workout,Activity,Exercise,run
+4/14/19 22:12,4/14/19 15:12,0,Return to car after running workout,Activity,End Exercise,run
+4/15/19 1:37,4/14/19 18:37,0,Begin cuff,Cuff Modulation,Begin Cuff,
+4/15/19 1:42,4/14/19 18:42,0,Inflate cuff to 250 mmHg,Cuff Modulation,Inflate Cuff,
+4/15/19 1:48,4/14/19 18:48,0,End cuff,Cuff Modulation,End Cuff,
+4/15/19 11:21,4/15/19 4:21,0,Get out of bed and remove patches to shower,Preset,Remove Patches,Dropout Expected
+4/15/19 15:51,4/15/19 8:51,0,Apply patches,Preset,Apply Patches,
+4/15/19 15:51,4/15/19 8:51,0,Forgot biovotion at home,Compliance,Remove Biovotion,Dropout Expected - B
+4/15/19 21:01,4/15/19 14:01,0,Realized arm sensor is disconnected and won't reconnect. Removed sensor while coaching,Preset,Remove Patches,Dropout Expected - 1
+4/15/19 22:09,4/15/19 15:09,0,Knocked calf sensor while doing ladder activities,Preset,Remove Patches,Dropout Expected - 1
+4/16/19 4:49,4/15/19 21:49,0,Reapplies calf patch before bed,Preset,Apply Patches,Dropout Expected - 1
+4/16/19 4:51,4/15/19 21:51,0,Laid down in bed,Sleep,Sleep,
+4/16/19 11:04,4/16/19 4:04,0,Get out of bed,Sleep,End Sleep,
+4/16/19 11:50,4/16/19 4:50,0,Keeping patches off until work to give chest and forearm skin a longer break,Preset,Remove Patches,Dropout Expected - 2
+4/16/19 14:08,4/16/19 7:08,0,Apply arm patch,Preset,Apply Patches,
+4/16/19 14:09,4/16/19 7:09,0,Apply neck patch,Preset,Apply Patches,
+4/16/19 14:11,4/16/19 7:11,0,Apply calf patch,Preset,Apply Patches,
+4/16/19 16:53,4/16/19 9:53,0,Applied chest patch,Preset,Apply Patches,
+4/16/19 17:39,4/16/19 10:39,0,Sat down for another meeting,Preset,Sitting,
+4/17/19 0:36,4/16/19 17:36,0,Just out son to bed and sat down to watch some tv,Activity,Sitting,
+4/17/19 2:22,4/16/19 19:22,0,Knocked chest patch off scratching chest,Preset,Remove Patches,Dropout Expected - 1
+4/17/19 2:57,4/16/19 19:57,0,Knocked calf patch of getting out of recliner while wrestling with son,Preset,Remove Patches,Dropout Expected - 1
+4/17/19 4:10,4/16/19 21:10,0,Reapply chest patch,Preset,Apply Patches,
+4/17/19 4:15,4/16/19 21:15,0,Layer down in bed,Sleep,Sleep,
+4/17/19 11:29,4/17/19 4:29,0,Wake up and remove patches to shower,Preset,End Sleep,End Sleep
+4/17/19 11:29,4/17/19 4:29,0,Wake up and remove patches to shower,Preset,Remove Patches,Dropout Expected
+5/3/19 23:19,5/3/19 16:19,0,Couldn't find chest sensor,NextFlex,Remove Patches,Dropout Expected - 1
+5/3/19 23:24,5/3/19 16:24,0,Removed neck sensor mainly due to it not being very comfortable and data being intermittent.,Preset,Remove Patches,Dropout Expected - 1
+5/4/19 0:18,5/3/19 17:18,0,Removing patches for evening.,Preset,Remove Patches,Dropout Expected
