@@ -1,0 +1,142 @@
+﻿timestamp:UTC,Date and Time: PST,duration (hours),note,Category,Label,Editor Note
+4/18/19 11:32,4/18/19 4:32,0,Apply Patches,Preset,Apply Patches,
+4/18/19 11:55,4/18/19 4:55,0,Repositioned chest patch,Preset,Apply Patches,Dropout Expected
+4/18/19 14:27,4/18/19 7:27,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/18/19 16:50,4/18/19 9:50,0,"Checked abdomen patch and Idle, restarted sampling",Preset,Apply Patches,Dropout Expected
+4/18/19 20:14,4/18/19 13:14,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/18/19 20:19,4/18/19 13:19,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/18/19 20:26,4/18/19 13:26,0,END CUFF,Cuff Modulation,End Cuff,
+4/18/19 20:27,4/18/19 13:27,0,Cuff inflation at 250 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,check for begin cuff
+4/18/19 23:01,4/18/19 16:01,0,Walking,Activity,Walking,
+4/18/19 23:33,4/18/19 16:33,0,End walking,Activity,End Walking,
+4/19/19 0:24,4/18/19 17:24,0,Walking,Activity,Walking,
+4/19/19 0:32,4/18/19 17:32,0,Stop walking,Activity,End Walking,
+4/19/19 2:57,4/18/19 19:57,0,Sleep,Sleep,Sleep,
+4/19/19 10:43,4/19/19 3:43,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/19/19 10:49,4/19/19 3:49,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/19/19 10:49,4/19/19 3:49,0,Cuff inflation at 200 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,check for duplicate
+4/19/19 10:51,4/19/19 3:51,0,Cuff inflation at 200 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,check for duplicate
+4/19/19 10:55,4/19/19 3:55,0,END CUFF,Cuff Modulation,End Cuff,
+4/19/19 10:59,4/19/19 3:59,0,Exercise,Activity,Walking,
+4/19/19 11:08,4/19/19 4:08,0,End Exercise,Activity,End Walking,
+4/19/19 11:23,4/19/19 4:23,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/19/19 12:40,4/19/19 5:40,0,Apply Patches,Preset,Apply Patches,
+4/19/19 17:17,4/19/19 10:17,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/19/19 17:22,4/19/19 10:22,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,check for duplicate
+4/19/19 17:22,4/19/19 10:22,0,Cuff inflation at 180 mmHg for 30 sec,Cuff Modulation,Inflate Cuff,check for duplicate
+4/19/19 17:28,4/19/19 10:28,0,END CUFF,Cuff Modulation,End Cuff,
+4/19/19 19:32,4/19/19 12:32,0,Pulled on abdomen patch - itching- popped out of adhesive,Preset,Remove Patches,Dropout Expected - 1
+4/20/19 1:09,4/19/19 18:09,0,Sleep,Sleep,Sleep,
+4/20/19 10:47,4/20/19 3:47,0,End Sleep,Sleep,End Sleep,
+4/20/19 11:03,4/20/19 4:03,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/20/19 12:13,4/20/19 5:13,0,Apply Patches,Preset,Apply Patches,
+4/20/19 15:58,4/20/19 8:58,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/20/19 16:05,4/20/19 9:05,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,220 mmHG x 60 s
+4/20/19 16:12,4/20/19 9:12,0,END CUFF,Cuff Modulation,End Cuff,
+4/20/19 16:14,4/20/19 9:14,0,Reposition abdomen patch,Preset,Remove Patches,Dropout Expected - 1
+4/20/19 19:46,4/20/19 12:46,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/20/19 19:52,4/20/19 12:52,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,180 mmHG x 60 s
+4/20/19 19:59,4/20/19 12:59,0,END CUFF,Cuff Modulation,End Cuff,
+4/20/19 20:01,4/20/19 13:01,0,Walking,Activity,Walking,
+4/20/19 21:00,4/20/19 14:00,0,Stop walking,Activity,End Walking,
+4/20/19 21:37,4/20/19 14:37,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/20/19 21:43,4/20/19 14:43,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,250 mmHG x 60 s
+4/20/19 21:49,4/20/19 14:49,0,END CUFF,Cuff Modulation,End Cuff,
+4/20/19 22:46,4/20/19 15:46,0,Exercise,Activity,Exercise,
+4/20/19 23:18,4/20/19 16:18,0,End Exercise,Activity,End Exercise,
+4/21/19 0:02,4/20/19 17:02,0,Sleep,Sleep,Sleep,
+4/21/19 10:34,4/21/19 3:34,0,End Sleep,Sleep,End Sleep,
+4/21/19 11:45,4/21/19 4:45,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/21/19 12:55,4/21/19 5:55,0,Apply Patches,Preset,Apply Patches,
+4/21/19 13:54,4/21/19 6:54,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/21/19 13:59,4/21/19 6:59,0,Cuff inflation at 250 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,
+4/21/19 13:59,4/21/19 6:59,0,INFLATE CUFF annotation error- did not apply initially so added approx at time,Cuff Modulation,Inflate Cuff,check
+4/21/19 13:59,4/21/19 6:59,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/21/19 14:06,4/21/19 7:06,0,END CUFF,Cuff Modulation,End Cuff,
+4/21/19 17:11,4/21/19 10:11,0,Noticed abdomen patch not recording turned sampling back on,Preset,Remove Patches,Dropout Expected - 1
+4/21/19 20:49,4/21/19 13:49,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/21/19 20:54,4/21/19 13:54,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,250 mmHG x 60 s
+4/21/19 21:01,4/21/19 14:01,0,END CUFF,Cuff Modulation,End Cuff,
+4/21/19 21:49,4/21/19 14:49,0,Walking in sunshine,Activity,Walking,Outside
+4/21/19 22:18,4/21/19 15:18,0,End walking,Activity,End Walking,Outside
+4/22/19 1:10,4/21/19 18:10,0,Detached abdomen patch- pulled on because itching,Preset,Remove Patches,Dropout Expected - 1
+4/22/19 1:20,4/21/19 18:20,0,Sleep,Sleep,Sleep,
+4/22/19 9:08,4/22/19 2:08,0,End Sleep,Sleep,End Sleep,
+4/22/19 10:08,4/22/19 3:08,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/22/19 10:14,4/22/19 3:14,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,250 mmHG x 60 s
+4/22/19 10:21,4/22/19 3:21,0,END CUFF,Cuff Modulation,End Cuff,
+4/22/19 11:21,4/22/19 4:21,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/22/19 12:36,4/22/19 5:36,2.530556,Apply Patches,Preset,Apply Patches,
+4/22/19 12:37,4/22/19 5:37,0,Only applied arm and leg patches- allowing chest and abdomen skin to recover more,Preset,Remove Patches,Dropout Expected - 2
+4/22/19 13:36,4/22/19 6:36,0,Apply Patches,Preset,Apply Patches,
+4/22/19 13:46,4/22/19 6:46,0.202037,Reapplied chest and abdomen patches,Preset,Apply Patches,Dropout Expected - 2
+4/22/19 14:28,4/22/19 7:28,0,Walking,Activity,Walking,
+4/22/19 14:55,4/22/19 7:55,0,End walking,Activity,End Walking,
+4/22/19 17:21,4/22/19 10:21,0,Exercise,Activity,Exercise,
+4/22/19 17:38,4/22/19 10:38,0,End Exercise,Activity,End Exercise,
+4/22/19 18:22,4/22/19 11:22,0,BEGIN LIFT,Leg Lift Modulation,Begin Lift,
+4/22/19 18:32,4/22/19 11:32,0,LEGS UP,Leg Lift Modulation,Legs Up,
+4/22/19 18:38,4/22/19 11:38,0,LEGS DOWN,Leg Lift Modulation,Legs Down,
+4/22/19 20:20,4/22/19 13:20,0,Stairs,Activity,Exercise,Stairs
+4/22/19 20:25,4/22/19 13:25,0,End stairs,Activity,End Exercise,Stairs
+4/22/19 23:34,4/22/19 16:34,0,BEGIN SIT,Position Change Modulation,Begin Sit,
+4/22/19 23:44,4/22/19 16:44,0,SIT UP,Position Change Modulation,Site Up,
+4/22/19 23:50,4/22/19 16:50,0,LIE DOWN,Position Change Modulation,Lie Down,
+4/22/19 23:55,4/22/19 16:55,0,END SIT,Position Change Modulation,End Sit,
+4/23/19 0:53,4/22/19 17:53,0,Restarted Abdomen Patch,Preset,Apply Patches,Dropout Expected - 1
+4/23/19 0:54,4/22/19 17:54,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/23/19 0:58,4/22/19 17:58,0,Cuff inflation at 240 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,
+4/23/19 0:58,4/22/19 17:58,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/23/19 1:06,4/22/19 18:06,0,END CUFF,Cuff Modulation,End Cuff,
+4/23/19 1:11,4/22/19 18:11,0,Removed abdomen patch- itching,Preset,Remove Patches,Dropout Expected - 1
+4/23/19 1:23,4/22/19 18:23,0,Removed arm patch - itching,Preset,Remove Patches,Dropout Expected - 1
+4/23/19 1:54,4/22/19 18:54,0,Sleep,Sleep,Sleep,
+4/23/19 9:38,4/23/19 2:38,0,End Sleep,Sleep,End Sleep,
+4/23/19 11:05,4/23/19 4:05,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/23/19 12:15,4/23/19 5:15,0,Apply Patches,Preset,Apply Patches,
+4/23/19 13:29,4/23/19 6:29,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/23/19 13:35,4/23/19 6:35,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/23/19 13:35,4/23/19 6:35,0,Cuff inflation at 250 mmHg for 60 sec,Cuff Modulation,Inflate Cuff,
+4/23/19 13:42,4/23/19 6:42,0,END CUFF,Cuff Modulation,End Cuff,
+4/23/19 18:06,4/23/19 11:06,0,BEGIN SIT,Position Change Modulation,Begin Sit,
+4/23/19 18:16,4/23/19 11:16,0,SIT UP,Position Change Modulation,Site Up,
+4/23/19 18:21,4/23/19 11:21,0,LIE DOWN,Position Change Modulation,Lie Down,
+4/23/19 18:26,4/23/19 11:26,0,END SIT,Position Change Modulation,End Sit,
+4/23/19 18:45,4/23/19 11:45,0,Exercise,Activity,Exercise,
+4/23/19 18:57,4/23/19 11:57,0,End Exercise,Activity,End Exercise,
+4/24/19 0:47,4/23/19 17:47,0,Restarted leg patch sampling when realized idle unprompted,Preset,Remove Patches,Dropout Expected - 1
+4/24/19 0:47,4/23/19 17:47,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/24/19 0:53,4/23/19 17:53,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,
+4/24/19 1:00,4/23/19 18:00,0,END CUFF,Cuff Modulation,End Cuff,
+4/24/19 1:50,4/23/19 18:50,0,Sleep,Sleep,Sleep,
+4/24/19 9:31,4/24/19 2:31,0,End Sleep,Sleep,End Sleep,
+4/24/19 9:38,4/24/19 2:38,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+4/24/19 10:46,4/24/19 3:46,4.532222,Apply Patches,Preset,Apply Patches,
+4/24/19 10:55,4/24/19 3:55,0,Detached leg patch- getting dressed,Preset,Remove Patches,Dropout Expected - 1
+4/24/19 10:56,4/24/19 3:56,0.026111,Reapplied leg patch with reinforcement strip,Preset,Apply Patches,Dropout Expected - 1
+4/24/19 17:23,4/24/19 10:23,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/24/19 17:29,4/24/19 10:29,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,240 mmHg x 60 s
+4/24/19 17:36,4/24/19 10:36,0,END CUFF,Cuff Modulation,End Cuff,
+4/24/19 19:47,4/24/19 12:47,0,BEGIN SIT,Position Change Modulation,Begin Sit,
+4/24/19 19:57,4/24/19 12:57,0,SIT UP,Position Change Modulation,Sit Up,
+4/24/19 20:02,4/24/19 13:02,0,LIE DOWN,Position Change Modulation,Lie Down,
+4/24/19 20:07,4/24/19 13:07,0,END SIT,Position Change Modulation,End Sit,
+4/24/19 22:34,4/24/19 15:34,0,Exercise,Activity,Walking,
+4/24/19 23:38,4/24/19 16:38,0,End Exercise,Activity,End Walking,
+4/24/19 23:43,4/24/19 16:43,0,Removed chest patch - itching,Preset,Remove Patches,Dropout Expected - 1
+4/25/19 0:29,4/24/19 17:29,0,Removed abdomen patch- itching,Preset,Remove Patches,Dropout Expected - 1
+4/25/19 0:39,4/24/19 17:39,0,BEGIN CUFF,Cuff Modulation,Begin Cuff,
+4/25/19 0:45,4/24/19 17:45,0,INFLATE CUFF,Cuff Modulation,Inflate Cuff,250 mmHG x 60 s
+4/25/19 0:51,4/24/19 17:51,0,END CUFF,Cuff Modulation,End Cuff,
+4/25/19 2:25,4/24/19 19:25,0,Sleep,Sleep,Sleep,
+4/25/19 9:33,4/25/19 2:33,0,End Sleep,Sleep,End Sleep,
+4/25/19 10:01,4/25/19 3:01,0,Remove Patches,Preset,Remove Patches,Dropout Expected
+5/1/19 15:01,5/1/19 8:01,0,Exercise,Activity,Walking,Outside
+5/1/19 15:22,5/1/19 8:22,0,End Exercise,Activity,End Walking,Outside
+5/2/19 0:50,5/1/19 17:50,0,Exercise,Activity,Walking,Outside
+5/2/19 1:43,5/1/19 18:43,0,End Exercise,Activity,End Walking,Outside
+5/2/19 1:57,5/1/19 18:57,0,Apply Patches,Preset,Apply Patches,
+5/2/19 2:37,5/1/19 19:37,0,LIE DOWN,Modulation,Laying,
+5/2/19 4:59,5/1/19 21:59,0,Sleep,Sleep,Sleep,
+5/2/19 12:30,5/2/19 5:30,0,End Sleep,Sleep,End Sleep,
+5/2/19 12:51,5/2/19 5:51,0,Remove Patches,Preset,Remove Patches,Dropout Expected
